@@ -14,13 +14,10 @@ I'm a **Computer Science** student at **Purdue University** specializing in **Ar
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🛡️ [**Veritas**]([https://github.com/YOUR_USERNAME/veritas](https://github.com/AdithyaPR18/Veritas-Multimodal-Disinformation-Engine)) | Multimodal Disinformation Engine detecting AI-generated content. | `Python` `PyTorch` `NLP` |
-| 🤖 [**Agentic RAG**]([https://github.com/YOUR_USERNAME/agentic-rag](https://github.com/AdithyaPR18/Agentic-Rag-Pipeline)) | Advanced Retrieval Augmented Generation pipeline with autonomous agents. | `LangChain` `OpenAI` `VectorDB` |
-| 🏋️ [**Sweat Together**]([https://github.com/YOUR_USERNAME/sweat-together](https://github.com/AdithyaPR18/sweat-together)) | Vision-based fitness platform utilizing real-time pose estimation. | `Computer Vision` `React` `Flask` |
-<!-- 
-| 🗺️ [**Roadmaps**](https://github.com/YOUR_USERNAME/roadmaps) | Interactive learning path visualization for developers. | `React` `D3.js` |
-| 🥗 [**NORA**](https://github.com/YOUR_USERNAME/nora) | ML-powered nutrition tracker simplifying dietary logging. | `TensorFlow` `Node.js` |
--->
+| 🛡️ [**Veritas**](https://github.com/AdithyaPR18/Veritas-Multimodal-Disinformation-Engine) | Multimodal Disinformation Engine detecting AI-generated content. | `Python` `PyTorch` `NLP` |
+| 🤖 [**Agentic RAG**](https://github.com/AdithyaPR18/Agentic-Rag-Pipeline) | Advanced Retrieval Augmented Generation pipeline with autonomous agents. | `LangChain` `OpenAI` `VectorDB` |
+| 🏋️ [**Sweat Together**](https://github.com/AdithyaPR18/sweat-together) | Vision-based fitness platform utilizing real-time pose estimation. | `Computer Vision` `React` `Flask` |
+
 ---
 
 ### 🧰 Tech Stack
@@ -59,5 +56,5 @@ I'm a **Computer Science** student at **Purdue University** specializing in **Ar
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyapramesh&show_icons=true&theme=radical&hide_border=true" alt="Adithya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaPR18&show_icons=true&theme=radical&hide_border=true" alt="Adithya's GitHub Stats" />
 </p>
