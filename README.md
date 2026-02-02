@@ -1,52 +1,62 @@
 # 👋 Hi there, I'm Adithya!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Purdue%20University-Computer%20Science-ceb888?style=flat-square&logo=purdue-university&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Purdue%20University-Computer%20Science-ceb888?style=for-the-badge&logo=purdue-university&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-blue?style=for-the-badge" />
 </p>
 
-I'm a **Computer Science** student at **Purdue University** specializing in **Artificial Intelligence** and **Machine Learning**. I’m passionate about building intelligent systems that bridge the gap between complex data and user-friendly applications.
+I'm a **Computer Science** student at **Purdue University** specializing in **Artificial Intelligence** and **Machine Learning**. I bridge the gap between complex data and user-friendly applications through intelligent, scalable systems.
 
 ---
 
-### 🚀 Current Focus
-* 🎓 **Academic:** Deep diving into AI/ML architectures and theory at Purdue.
-* 🛠️ **Latest Projects:** 
-    * `Veritas` - Multimodal Disinformation Engine
-    * `Agentic RAG` - Advanced Retrieval Augmented Generation pipeline
-    * `Sweat Together` - Vision based fitness platform I founded to revolutionize home workouts
-* 🔍 **Opportunities:** Actively seeking **Software Engineering Internships** for Summer 2026.
+### 🛠️ Projects & Research
+*Click the project titles to view the repositories.*
 
-### 🛠️ Tech Stack & Tools
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![SciKit-Learn](https://img.shields.io/badge/-SciKit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Web / Backend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🛡️ [**Veritas**](https://github.com/YOUR_USERNAME/veritas) | Multimodal Disinformation Engine detecting AI-generated content. | `Python` `PyTorch` `NLP` |
+| 🤖 [**Agentic RAG**](https://github.com/YOUR_USERNAME/agentic-rag) | Advanced Retrieval Augmented Generation pipeline with autonomous agents. | `LangChain` `OpenAI` `VectorDB` |
+| 🏋️ [**Sweat Together**](https://github.com/YOUR_USERNAME/sweat-together) | Vision-based fitness platform utilizing real-time pose estimation. | `Computer Vision` `React` `Flask` |
+| 🥗 [**NORA**](https://github.com/YOUR_USERNAME/nora) | ML-powered nutrition tracker simplifying dietary logging. | `TensorFlow` `Node.js` |
+| 🗺️ [**Roadmaps**](https://github.com/YOUR_USERNAME/roadmaps) | Interactive learning path visualization for developers. | `React` `D3.js` |
 
-### 🏆 Key Highlights
-* **Sweat Together:** Founded a vision startup utilizing real-time pose estimation for fitness analysis.
-* **NORA:** Engineered an ML-powered nutrition tracker to simplify dietary logging.
-* **EduLearn Hackathon:** Spearheaded the organization of a community-focused hackathon event.
+---
+
+### 🧰 Tech Stack
+**Languages & AI/ML**
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+**Web & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
 ### 🏁 Beyond the Code
-* 🏀 **Sports:** Die hard fan of **Purdue Basketball** (Boiler Up! 🚂) and the **Golden State Warriors**.
-* 🏎️ **F1:** Constantly tracking technical upgrades and race strategy.
-* 🧩 **Practice:** Frequent visitor to **LeetCode** for algorithmic challenges.
+* 🏀 **Sports:** Die-hard **Purdue Basketball** fan (Boiler Up! 🚂) & supporting the **Warriors**.
+* 🏎️ **F1:** Following technical race strategies and engineering upgrades.
+* 🧩 **Practice:** Grinding **LeetCode** to sharpen algorithmic thinking.
 * ✈️ **Travel:** Recently explored Mexico, Chennai, and Singapore.
-* 🎧 **Vibes:** Usually listening to Hip Hop or Pop.
 
-### 📫 Let's Connect!
+### 📫 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/adithyapramesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyapramesh" height="30" width="40" /></a>
-<a href="mailto:adithya.p.ramesh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="adithya.p.ramesh@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adithyapramesh/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adithyapramesh" /></a>
+<a href="mailto:adithya.p.ramesh@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adithya.p.ramesh@gmail.com" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Adithya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyapramesh&show_icons=true&theme=radical&hide_border=true" alt="Adithya's GitHub Stats" />
 </p>
