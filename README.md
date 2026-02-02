@@ -11,11 +11,10 @@ I'm a **Computer Science** student at **Purdue University** specializing in **Ar
 
 ### 🚀 Current Focus
 * 🎓 **Academic:** Deep diving into AI/ML architectures and theory at Purdue.
-* 💻 **Sweat Together:** Scaling a vision-based fitness platform I founded to revolutionize home workouts.
 * 🛠️ **Latest Projects:** 
     * `Veritas` - Multimodal Disinformation Engine
     * `Agentic RAG` - Advanced Retrieval Augmented Generation pipeline
-    * `Roadmaps` - Interactive learning path visualization
+    * `Sweat Together` - Vision based fitness platform I founded to revolutionize home workouts
 * 🔍 **Opportunities:** Actively seeking **Software Engineering Internships** for Summer 2026.
 
 ### 🛠️ Tech Stack & Tools
@@ -34,11 +33,11 @@ I'm a **Computer Science** student at **Purdue University** specializing in **Ar
 ---
 
 ### 🏁 Beyond the Code
-* 🏀 **Sports:** Die-hard fan of **Purdue Basketball** (Boiler Up! 🚂) and the **Golden State Warriors**.
+* 🏀 **Sports:** Die hard fan of **Purdue Basketball** (Boiler Up! 🚂) and the **Golden State Warriors**.
 * 🏎️ **F1:** Constantly tracking technical upgrades and race strategy.
 * 🧩 **Practice:** Frequent visitor to **LeetCode** for algorithmic challenges.
 * ✈️ **Travel:** Recently explored Mexico, Chennai, and Singapore.
-* 🎧 **Vibes:** Usually listening to Hip-Hop or contemporary pop.
+* 🎧 **Vibes:** Usually listening to Hip Hop or Pop.
 
 ### 📫 Let's Connect!
 <p align="left">
