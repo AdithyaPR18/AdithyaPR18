@@ -17,7 +17,7 @@ My interests sit at the intersection of:
 ---
 
 ## 🚀 Featured Projects
-*Click a project to explore the code.*
+*Here are my most impressive projects! Click a project to explore the code. Click on my profile to view more projects!*
 
 | Project | What It Does | Stack |
 |-------|-------------|-------|
