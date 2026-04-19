@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Adithya (Adi)
+# 👋 Hi, I'm Adithya (Adi)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Purdue%20University-Computer%20Science-ceb888?style=for-the-badge&logo=purdue-university&logoColor=black" />
@@ -6,24 +6,25 @@
   <img src="https://img.shields.io/badge/Seeking-SWE%20%2F%20ML%20Internships-success?style=for-the-badge" />
 </p>
 
-I’m a **Computer Science student at Purdue University** with a focus on **Artificial Intelligence and Machine Learning**.  
-I build **production-oriented systems** that turn complex models into **scalable, user-facing applications**.
+I'm a **Computer Science student at Purdue University** specializing in **AI and Machine Learning**.
+I build ML systems that close the gap between research and production — from multimodal disinformation detection to geospatial vegetation forecasting at scale.
 
-My interests sit at the intersection of:
-- **AI systems engineering**
-- **ML + real-world deployment**
-- **High-impact, data-driven products**
+My work sits at the intersection of:
+- **ML systems engineering** — training pipelines, deployment, real-world constraints
+- **Computer vision & NLP** — multimodal models, pose estimation, document understanding
+- **Data-driven products** — full-stack apps backed by models that actually ship
 
 ---
 
 ## 🚀 Featured Projects
+
 *Here are my most impressive projects! Click a project to explore the code. Click on my profile to view more projects!*
 
 | Project | What It Does | Stack |
 |-------|-------------|-------|
-| 🛡️ **[Veritas](https://github.com/AdithyaPR18/Veritas-Multimodal-Disinformation-Engine)** | Multimodal engine for detecting AI-generated disinformation across text and media. | `Python` `PyTorch` `NLP` |
+| 🛡️ **[Veritas](https://github.com/AdithyaPR18/Veritas-Multimodal-Disinformation-Engine)** | Multimodal engine for detecting AI-generated disinformation across text and media. | `Python` `PyTorch` `BERT` `ResNet-50` |
 | 🤖 **[Agentic RAG](https://github.com/AdithyaPR18/Agentic-Rag-Pipeline)** | Agent-driven Retrieval Augmented Generation pipeline with autonomous reasoning and tool use. | `LangChain` `OpenAI` `Vector DBs` |
-| 🏋️ **[Sweat Together](https://github.com/AdithyaPR18/sweat-together)** | Vision-based fitness platform using real-time pose estimation and feedback. | `Computer Vision` `React` `Flask` |
+| 🏋️ **[Sweat Together](https://github.com/AdithyaPR18/sweat-together)** | Vision-based fitness platform using real-time pose estimation and live feedback. | `Computer Vision` `React` `Flask` |
 
 ---
 
@@ -50,14 +51,16 @@ My interests sit at the intersection of:
 ---
 
 ## 🧠 Outside the Terminal
-- 🏀 **Sports:** Purdue Basketball enthusiast (Boiler Up 🚂) and Warriors fan  
-- 🏎️ **F1:** Strategy, telemetry, and engineering upgrades  
-- 🧩 **Problem Solving:** Regular LeetCode grinding  
+
+- 🏀 **Sports:** Purdue Basketball enthusiast (Boiler Up 🚂) and Warriors fan
+- 🏎️ **F1:** Strategy, telemetry, and engineering upgrades
+- 🧩 **Problem Solving:** Regular LeetCode grinding
 - ✈️ **Travel:** Mexico, Chennai, Singapore
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/adithyapramesh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -70,5 +73,5 @@ My interests sit at the intersection of:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaPR18&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaPR18&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
