@@ -23,8 +23,8 @@ My work sits at the intersection of:
 | Project | What It Does | Stack |
 |-------|-------------|-------|
 | 🛡️ **[Veritas](https://github.com/AdithyaPR18/Veritas-Multimodal-Disinformation-Engine)** | Multimodal engine for detecting AI-generated disinformation across text and media. | `Python` `PyTorch` `BERT` `ResNet-50` |
-| 🤖 **[Agentic RAG](https://github.com/AdithyaPR18/Agentic-Rag-Pipeline)** | Agent-driven Retrieval Augmented Generation pipeline with autonomous reasoning and tool use. | `LangChain` `OpenAI` `Vector DBs` |
-| 🏋️ **[Sweat Together](https://github.com/AdithyaPR18/sweat-together)** | Vision-based fitness platform using real-time pose estimation and live feedback. | `Computer Vision` `React` `Flask` |
+| 🗄️ **[VecDB](https://github.com/AdithyaPR18/HNSW-Indexing-Vector-DB)** | Vector database built from scratch with a C++ HNSW index, WAL crash recovery, and REST API. | `C++` `Python` `pybind11` `FastAPI` |
+| 🏋️ **[Sweat Together](https://github.com/AdithyaPR18/sweat-together)** | Vision-based fitness platform using real-time pose estimation and feedback. | `Computer Vision` `React` `Flask` |
 
 ---
 
